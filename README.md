@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Name -->
+## Leon Wasiliew
+- - -
+<!-- Titles -->
+<b>IT Programmer • Software Developer</b>
+- - -
+<!-- Short Description -->
+I am currently an undergraduate of the IT Programming course at Nova Scotia Community College (NSCC).
 
-<!--
-**LeonWasHere/LeonWasHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience working with modern technologies and am always excited to apply my knwoledge in practice.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Contact -->
+Contact me via:
+[Email](leon.wasiliew.it@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/leon-wasiliew-b84721327/)
+
+<!-- More About Me -->
+Click below to find out more about me:
+[GitHub Portfolio](https://leonwashere.github.io/)
