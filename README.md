@@ -6,9 +6,9 @@
 ---
 
 ### About Me
-I am second-year IT Programming student at Nova Scotia Community College (NSCC), building a strong foundation in software developmentand modern IT practices.
+I am a second-year IT Programming student at Nova Scotia Community College (NSCC), building a strong foundation in software development and modern IT practices.
 
-Personally, I am interested in both the modern advancements in cloud computing and AI technologies. As a hobby, I am working on creating embedded systems and making my own applications to help me.
+I am particularly interested in the advancements of cloud computing and AI technologies. In my own time, I enjoy working on embedded systems and creating small applications that improve my workflow.
 
 ---
 
@@ -18,7 +18,7 @@ I have worked across a wide range of technologies and disciplines:
 
 + Web Development
 + Networking & Cybersecurity
-+ Operating SYstems
++ Operating Systems
 + Programming
 + Databases
 + Project & Workflow Management
